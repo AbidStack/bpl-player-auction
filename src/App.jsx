@@ -9,7 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const PlayersDataPromise = async () => {
-  const PromiseLoading = await fetch('/players.json')
+  const PromiseLoading = await fetch(`${import.meta.env.BASE_URL}players.json`)
   return PromiseLoading.json()
 }
 

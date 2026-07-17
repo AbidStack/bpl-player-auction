@@ -12,7 +12,7 @@ export default function Banner () {
             <h2 className='text-2xl text-[#FFFFFF70]'>Beyond Boundaries Beyond Limits</h2>
             <div className='rounded-2xl border border-[#E7FE29] p-2'>
                 <button className='rounded-xl bg-[#E7FE29] px-5 py-3 text-lg font-bold text-[#131313]'>
-                    Claim Free Credit
+                    Claim 10 Credit
                 </button>
             </div>
         </div>
