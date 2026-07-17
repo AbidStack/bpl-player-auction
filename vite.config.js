@@ -9,5 +9,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/test-npm/'
+  base: '/bpl-player-bid/'
 })
