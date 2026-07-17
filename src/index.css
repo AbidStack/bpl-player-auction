@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+    font-family: "Sora";
+    padding-bottom: 10rem;
+}
+
+button {
+    cursor: pointer;
+}
