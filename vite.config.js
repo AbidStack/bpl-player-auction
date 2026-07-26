@@ -9,5 +9,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  // base: '/bpl-player-auction/'
+  base: '/bpl-player-auction/'
 })
